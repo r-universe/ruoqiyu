@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bigmatch"]
-	path = bigmatch
-	url = https://github.com/cran/bigmatch
 [submodule "DiPs"]
 	path = DiPs
 	url = https://github.com/ruoqiyu/dips
+[submodule "bigmatch"]
+	path = bigmatch
+	url = https://github.com/cran/bigmatch
